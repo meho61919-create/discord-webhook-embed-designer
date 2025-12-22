@@ -1,4 +1,4 @@
-# 🎨 Maho Architect Studio Pro V4
+# 🎨 discord-webhook-embed-designer
 
 Discord Webhook'larınız için geliştirilmiş, modern ve canlı önizlemeli bir **Embed Tasarımcı**. Bu araç, kodlama bilmenize gerek kalmadan profesyonel duyurular ve mesajlar hazırlamanızı sağlar.
 
