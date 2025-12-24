@@ -49,11 +49,9 @@ Discord Webhook'larınız için geliştirilmiş, modern ve canlı önizlemeli bi
 
 ---
 
-## 🛠️ Geliştiriciler İçin
-Eğer bu projeyi geliştirmek veya kendi sunucunuzda yayınlamak isterseniz:
-1. Dosyaları indirin: `git clone https://github.com/meho61919-create/discord-webhook-embed-designer/blob/main/index.html`
-2. `index.html` dosyasını tarayıcınızla açmanız yeterlidir.
-3. Yayına almak için **GitHub Pages** ayarlarını aktif etmeniz önerilir.
+## 🛠️ Website:
+1. Website: `https://meho61919-create.github.io/discord-webhook-embed-designer/` tarayıcınızla açmanız yeterlidir.
+2. Gerisi siz de!
 
 ---
 ⭐ **Bu aracı sevdiyseniz bir yıldız bırakmayı unutmayın!** **Geliştirici:** [mahodelurf]
